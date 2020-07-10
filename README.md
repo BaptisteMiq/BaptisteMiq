@@ -1,7 +1,7 @@
 <br>
 <br>
 <hr>
-<div><font size="24"><i>I don't like <b>CSS</b></i></font></div>
+<div align="center"><i>I don't like <b>CSS</b></i></div>
 <hr>
 <br>
 <br>
