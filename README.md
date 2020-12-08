@@ -31,11 +31,11 @@ I like to innovate with original projects and having fun with code 😊
 
 #### Tools I know:
 
-##### Design
+###### Design
 
 [<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">](https://bit.ly/3qDXwc1)
 
-##### Project management & Other tools
+###### Project management & Other tools
 
 [<img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white">](https://github.com/BaptisteMiq)
 
