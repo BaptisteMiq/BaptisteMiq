@@ -10,7 +10,7 @@ I like to innovate with original projects and having fun with code 😊
 
 #### Technologies that I use:
 
-<img src="https://img.shields.io/badge/-TIP!-000000?style=flat-square&logoColor=white"> **Click on a badge too see a project I made with this technology!**
+<img src="https://img.shields.io/badge/-TIP!-000000?style=flat-square&logoColor=white"> **Click on a badge to see a project I made with this technology!**
 
 ###### Web
 [<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">](https://github.com/HiDEVTeam/udp-rcon) [<img src="https://img.shields.io/badge/-React-0088CC?style=flat-square&logo=React&logoColor=white">](https://github.com/CosyDEV/react-pdf-exporter) [<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">](https://github.com/BaptisteMiq/ProjetWeb) [<img src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=Symfony&logoColor=white">](https://github.com/BaptisteMiq/ProjetWeb) [<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">](https://github.com/BaptisteMiq/hill-cipher-algorithm-python)
