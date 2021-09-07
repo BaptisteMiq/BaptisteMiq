@@ -22,9 +22,9 @@ I like to innovate with original projects and having fun with code 😊
   
 > [<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">](https://github.com/BaptisteMiq/VRP-Project) [<img src="https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=white">]() [<img src="https://img.shields.io/badge/-Java-5391FE?style=flat-square&logo=Java&logoColor=white">](https://github.com/BaptisteMiq/2DRayCasting) [<img src="https://img.shields.io/badge/-C-239120?style=flat-square&logo=C&logoColor=white">](https://github.com/BaptisteMiq/Sorting-algorithm-C) [<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">](https://youtu.be/Klf3MZlY8Ys) [<img src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">](https://youtu.be/XWPNY50jQZg) 
 
+<br />
 
-
-#### 🛠️ Tools I often use
+### 🛠️ Tools I often use
 
 > [<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">](https://github.com/BaptisteMiq) [<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">](https://github.com/HiDEVTeam) [<img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white">](https://github.com/HiDEVTeam) [<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">](https://bit.ly/3qDXwc1)
 
