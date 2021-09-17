@@ -19,8 +19,6 @@ I like to innovate with original projects and having fun with code 😊
 [<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">](https://youtu.be/2ttxrnF1MP4) [<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white">](https://youtu.be/aU4ewip0PAc) [<img src="https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=MongoDB&logoColor=white">](https://youtu.be/Sc_eIBBVGCs) [<img src="https://img.shields.io/badge/-MariaDB-888888?style=flat-square&logo=MariaDB&logoColor=white">](https://github.com/BaptisteMiq)
 
 
-<img align="right" src="https://stickershop.line-scdn.net/sticonshop/v1/sticon/5c31c612040ab12ebe4c0cba/iphone/031.png" width="200">
-
 #### ... but I also like
 
   
